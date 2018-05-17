@@ -1,0 +1,14 @@
+C:\Users\Alumnos\documents\visual studio 2010\Projects\EscribirLeerArchivos\EscribirLeerArchivos\bin\Release\EscribirLeerArchivos.exe
+C:\Users\Alumnos\documents\visual studio 2010\Projects\EscribirLeerArchivos\EscribirLeerArchivos\bin\Release\EscribirLeerArchivos.pdb
+C:\Users\Alumnos\documents\visual studio 2010\Projects\EscribirLeerArchivos\EscribirLeerArchivos\obj\x86\Release\EscribirLeerArchivos.exe
+C:\Users\Alumnos\documents\visual studio 2010\Projects\EscribirLeerArchivos\EscribirLeerArchivos\obj\x86\Release\EscribirLeerArchivos.pdb
+C:\Users\Alumnos\documents\visual studio 2010\Projects\EscribirLeerArchivos\EscribirLeerArchivos\obj\x86\Release\EscribirLeerArchivos.csprojResolveAssemblyReference.cache
+C:\Users\Alumnos\documents\visual studio 2010\Projects\EscribirLeerArchivos\EscribirLeerArchivos\bin\Release\ArchivosGestor.dll
+C:\Users\Alumnos\documents\visual studio 2010\Projects\EscribirLeerArchivos\EscribirLeerArchivos\bin\Release\ArchivosGestor.pdb
+E:\EscribirLeerArchivos\EscribirLeerArchivos\obj\x86\Release\EscribirLeerArchivos.exe
+E:\EscribirLeerArchivos\EscribirLeerArchivos\obj\x86\Release\EscribirLeerArchivos.pdb
+E:\EscribirLeerArchivos\EscribirLeerArchivos\bin\Release\EscribirLeerArchivos.exe
+E:\EscribirLeerArchivos\EscribirLeerArchivos\bin\Release\EscribirLeerArchivos.pdb
+E:\EscribirLeerArchivos\EscribirLeerArchivos\bin\Release\ArchivosGestor.dll
+E:\EscribirLeerArchivos\EscribirLeerArchivos\bin\Release\ArchivosGestor.pdb
+E:\EscribirLeerArchivos\EscribirLeerArchivos\obj\x86\Release\EscribirLeerArchivos.csprojResolveAssemblyReference.cache

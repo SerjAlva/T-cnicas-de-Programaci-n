@@ -1,0 +1,10 @@
+C:\Users\Alumnos\documents\visual studio 2010\Projects\EscribirLeerArchivos\ArchivosGestor\bin\Release\ArchivosGestor.dll
+C:\Users\Alumnos\documents\visual studio 2010\Projects\EscribirLeerArchivos\ArchivosGestor\bin\Release\ArchivosGestor.pdb
+C:\Users\Alumnos\documents\visual studio 2010\Projects\EscribirLeerArchivos\ArchivosGestor\obj\Release\ArchivosGestor.dll
+C:\Users\Alumnos\documents\visual studio 2010\Projects\EscribirLeerArchivos\ArchivosGestor\obj\Release\ArchivosGestor.pdb
+C:\Users\Alumnos\Documents\Visual Studio 2010\Projects\EscribirLeerArchivos\ArchivosGestor\obj\Release\ArchivosGestor.csprojResolveAssemblyReference.cache
+E:\EscribirLeerArchivos\ArchivosGestor\bin\Release\ArchivosGestor.dll
+E:\EscribirLeerArchivos\ArchivosGestor\bin\Release\ArchivosGestor.pdb
+E:\EscribirLeerArchivos\ArchivosGestor\obj\Release\ArchivosGestor.csprojResolveAssemblyReference.cache
+E:\EscribirLeerArchivos\ArchivosGestor\obj\Release\ArchivosGestor.dll
+E:\EscribirLeerArchivos\ArchivosGestor\obj\Release\ArchivosGestor.pdb
